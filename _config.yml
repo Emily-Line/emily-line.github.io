@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "osf.io/skmjv"
+  osf            : "osf.io/skmjv"
   googlescholar    : "https://scholar.google.com/citations?user=hOSvPUwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
