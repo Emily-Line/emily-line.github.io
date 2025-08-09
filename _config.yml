@@ -22,12 +22,12 @@ repository               : "Emily-Line/emily-line.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.jpg"
+  avatar           : "profile.png"
   name             : "Emily Line"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Quantitative psychology, decision making"
   location         : "Earth"
-  employer         : "University of Illinois, Urbana-Champaign"
+  employer         : "University of Illinois,<br>Urbana-Champaign"
   uri              : # URL
   email            : "neuline2@illinois.edu" 
 
