@@ -7,7 +7,7 @@ excerpt: 'How do people integrate conflicting anecdotal and statistical informat
 date: 2024-08-24
 venue: 'Cognitive Research: Principles and Implications'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'https://link.springer.com/article/10.1186/s41235-024-00577-3'
+paperurl: 'https://link.springer.com/content/pdf/10.1186/s41235-024-00577-3.pdf'
 bibtexurl: 'http://emily-line.github.io/files/anecdotes.bib'
 citation: 'Line, E. N., Jaramillo, S., Goldwater, M., &amp; Horne, Z. (2024).
   Anecdotes impact medical decisions even when presented with statistical information or decision-aids.

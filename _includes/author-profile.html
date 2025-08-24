@@ -44,6 +44,13 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
+      {% if site.osf %}
+        <li>
+          <a href="{{ site.osf }}" target="_blank" rel="noopener noreferrer">
+            <i class="ai ai-osf"></i>
+          </a>
+        </li>
+      {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}

@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  osf              : "osf.io/skmjv"
+  osf              : "https://osf.io/skmjv"
   googlescholar    : "https://scholar.google.com/citations?user=hOSvPUwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -78,14 +78,19 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Book Chapters'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'  
+  books:
+    title: 'Book Chapters'  
   # conferences:
   #   title: 'Conference Papers'
+
+
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
